@@ -20,15 +20,15 @@ public class GreetingResource {
     @POST
     @Path("/personalized")
     @Produces(MediaType.TEXT_PLAIN)
-    public String helloPersonalizedPost(Person p) {return "Hello " + p.getFirst() + " " + p.getLast();}
+    public String helloPersonalizedPost(Person p) {return "Hello " + p.getFirstName() + " " + p.getLastName();}
 
     public static class Person {
-        private String first;
-        private String last;
-        public String getFirst() {return first;}
-        public void setFirst(String first) {this.first = first;}
-        public String getLast() {return last;}
-        public void setLast(String last) {this.last = last;}
+        private String firstName;
+        private String lastName;
+        public String getFirstName() {return firstName;}
+        public void setFirstName(String firstName) {this.firstName = firstName;}
+        public String getLastName() {return lastName;}
+        public void setLastName(String lastName) {this.lastName = lastName;}
     }
     
 

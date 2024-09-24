@@ -1,38 +1,54 @@
-.App {
-  text-align: center;
+/* Center the entire application */
+.container {
+    text-align: center;
+    max-width: 300px;
+    margin: 0 auto;
+    padding-top: 50px;
+    font-family: Arial, sans-serif;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* Style the page header */
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+/* Form group style */
+.form-group {
+    margin-bottom: 15px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+/* Style the input fields */
+input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
 }
 
-.App-link {
-  color: #61dafb;
+/* Style the submit button */
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/* Change button style on hover */
+button:hover {
+    background-color: #45a049;
+}
+
+/* Message styling */
+p {
+    font-size: 18px;
+    color: #333;
+    margin-top: 20px;
 }

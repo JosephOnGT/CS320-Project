@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c0e46d55-8fb7-4528-b4cb-c12eef3468da" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CS320-Project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs320-project-jc/src/main/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/cs320-project-jc/src/main/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs320-project-jc/src/main/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/cs320-project-jc/src/main/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs320-project-jc/src/main/frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/cs320-project-jc/src/main/frontend/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs320-project-jc/src/main/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/cs320-project-jc/src/main/frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs320-project-jc/src/main/frontend/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs320-project-jc/src/main/frontend/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs320-project-jc/src/main/java/org/acme/GreetingResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/cs320-project-jc/src/main/java/org/acme/GreetingResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs320-project-jc/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cs320-project-jc/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs320-project-jc/src/main/webui/counter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs320-project-jc/src/main/webui/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs320-project-jc/src/main/webui/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs320-project-jc/src/main/webui/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs320-project-jc/src/main/webui/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs320-project-jc/src/main/webui/public/quarkus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs320-project-jc/src/main/webui/public/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs320-project-jc/src/main/webui/style.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="1.7-Connecting-the-Frontend-to-the-Backend" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JosephOnGT&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JosephOnGT/CS320-Project.git&quot;,
+    &quot;accountId&quot;: &quot;59d63b96-28fe-4b28-bc11-3f07654bd1cf&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2mJAuQ04ExYvbdAraEq2kdiaBLb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/josephcedeno/Documents/GitHub/CS320-Project&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="cs320-project-jc" type="QuarkusRunConfigurationType" factoryName="Quarkus" nameIsGenerated="true">
+      <module name="cs320-project-jc" />
+      <QsMavenRunConfiguration>
+        <MavenSettings>
+          <option name="myGeneralSettings" />
+          <option name="myRunnerSettings" />
+          <option name="myRunnerParameters">
+            <MavenRunnerParameters>
+              <option name="cmdOptions" />
+              <option name="profiles">
+                <set />
+              </option>
+              <option name="goals">
+                <list>
+                  <option value="quarkus:dev" />
+                </list>
+              </option>
+              <option name="multimoduleDir" />
+              <option name="pomFileName" value="pom.xml" />
+              <option name="profilesMap">
+                <map />
+              </option>
+              <option name="projectsCmdOptionValues">
+                <list />
+              </option>
+              <option name="resolveToWorkspace" value="false" />
+              <option name="workingDirPath" value="$PROJECT_DIR$/cs320-project-jc" />
+            </MavenRunnerParameters>
+          </option>
+        </MavenSettings>
+        <targetMavenLocalRepo />
+        <emulateTerminal>true</emulateTerminal>
+        <profile>dev</profile>
+      </QsMavenRunConfiguration>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.22855.74" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.22855.74" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0e46d55-8fb7-4528-b4cb-c12eef3468da" name="Changes" comment="" />
+      <created>1726784527729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726784527729</updated>
+      <workItem from="1726784528927" duration="4639000" />
+      <workItem from="1726953925550" duration="1129000" />
+      <workItem from="1726955103526" duration="289000" />
+      <workItem from="1726955396239" duration="100000" />
+      <workItem from="1726955589050" duration="1221000" />
+      <workItem from="1727144495859" duration="91000" />
+      <workItem from="1727144665511" duration="308000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
